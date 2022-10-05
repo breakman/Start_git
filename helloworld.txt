@@ -3,3 +3,5 @@ hello world!
 I'm breakman.
 
 new branch master -> changing to main4 is possible?
+
+--> git pull origin master로 폴더에 있는 로컬 저장소에 원격 저장소의 파일을 불러올 수 있음.
